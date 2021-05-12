@@ -1,0 +1,9 @@
+[06-Aug-2018 10:59:48 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eapp/public_html/news/index.php on line 94
+[06-Aug-2018 11:01:58 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eapp/public_html/news/index.php on line 94
+[06-Aug-2018 11:02:44 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eapp/public_html/news/index.php on line 94
+[06-Aug-2018 12:15:09 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eapp/public_html/news/index.php on line 92
+[06-Aug-2018 12:15:23 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eapp/public_html/news/index.php on line 92
+[05-Feb-2019 19:35:30 Europe/Berlin] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'eapp_admin'@'localhost' (using password: YES) in /home/eapp/public_html/setting/database.php on line 13
+[05-Feb-2019 19:35:30 Europe/Berlin] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/eapp/public_html/setting/database.php on line 15
+[05-Feb-2019 19:35:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eapp/public_html/setting/seleksi_data_front.php on line 3
+[05-Feb-2019 19:35:30 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eapp/public_html/setting/seleksi_data_front.php on line 3
